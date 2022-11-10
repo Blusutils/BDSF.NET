@@ -1,2 +1,2 @@
-# BSDF.NET
+# BDSF.NET
 BSDF format implementation for .NET  
