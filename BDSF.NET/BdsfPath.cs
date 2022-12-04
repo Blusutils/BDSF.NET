@@ -4,7 +4,8 @@ using System.Linq;
 
 namespace Blusutils.BDSF {
     public class BdsfPath {
-        public byte key;
-        public byte[] coordinate;
+        public byte keyType;
+        public byte[]? keyValue;
+        public uint[]? indents;
     }
 }
